@@ -181,8 +181,9 @@
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1047, 311);
+            this.pictureBox1.Size = new System.Drawing.Size(1396, 383);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -190,9 +191,10 @@
             // 
             this.pbescape.BackColor = System.Drawing.Color.Transparent;
             this.pbescape.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbescape.Location = new System.Drawing.Point(15, 18);
+            this.pbescape.Location = new System.Drawing.Point(20, 22);
+            this.pbescape.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbescape.Name = "pbescape";
-            this.pbescape.Size = new System.Drawing.Size(52, 50);
+            this.pbescape.Size = new System.Drawing.Size(69, 62);
             this.pbescape.TabIndex = 2;
             this.pbescape.TabStop = false;
             this.pbescape.Click += new System.EventHandler(this.pbescape_Click);
@@ -201,9 +203,10 @@
             // 
             this.pbleftcontrol.BackColor = System.Drawing.Color.Transparent;
             this.pbleftcontrol.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbleftcontrol.Location = new System.Drawing.Point(24, 252);
+            this.pbleftcontrol.Location = new System.Drawing.Point(32, 310);
+            this.pbleftcontrol.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbleftcontrol.Name = "pbleftcontrol";
-            this.pbleftcontrol.Size = new System.Drawing.Size(56, 38);
+            this.pbleftcontrol.Size = new System.Drawing.Size(75, 47);
             this.pbleftcontrol.TabIndex = 3;
             this.pbleftcontrol.TabStop = false;
             this.pbleftcontrol.Click += new System.EventHandler(this.pbleftcontrol_Click);
@@ -212,8 +215,9 @@
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(1047, 20);
+            this.pictureBox2.Size = new System.Drawing.Size(1396, 25);
             this.pictureBox2.TabIndex = 4;
             this.pictureBox2.TabStop = false;
             this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
@@ -221,9 +225,10 @@
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.Location = new System.Drawing.Point(0, 296);
+            this.pictureBox3.Location = new System.Drawing.Point(0, 364);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(1047, 15);
+            this.pictureBox3.Size = new System.Drawing.Size(1396, 18);
             this.pictureBox3.TabIndex = 5;
             this.pictureBox3.TabStop = false;
             this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
@@ -231,9 +236,10 @@
             // pictureBox4
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox4.Location = new System.Drawing.Point(0, 18);
+            this.pictureBox4.Location = new System.Drawing.Point(0, 22);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(18, 272);
+            this.pictureBox4.Size = new System.Drawing.Size(24, 335);
             this.pictureBox4.TabIndex = 6;
             this.pictureBox4.TabStop = false;
             this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
@@ -241,9 +247,10 @@
             // pictureBox5
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox5.Location = new System.Drawing.Point(1029, 18);
+            this.pictureBox5.Location = new System.Drawing.Point(1372, 22);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(18, 272);
+            this.pictureBox5.Size = new System.Drawing.Size(24, 335);
             this.pictureBox5.TabIndex = 7;
             this.pictureBox5.TabStop = false;
             this.pictureBox5.Click += new System.EventHandler(this.pictureBox5_Click);
@@ -252,9 +259,10 @@
             // 
             this.pbq.BackColor = System.Drawing.Color.Transparent;
             this.pbq.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbq.Location = new System.Drawing.Point(115, 77);
+            this.pbq.Location = new System.Drawing.Point(153, 95);
+            this.pbq.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbq.Name = "pbq";
-            this.pbq.Size = new System.Drawing.Size(47, 45);
+            this.pbq.Size = new System.Drawing.Size(63, 55);
             this.pbq.TabIndex = 8;
             this.pbq.TabStop = false;
             this.pbq.Click += new System.EventHandler(this.pbq_Click);
@@ -263,9 +271,10 @@
             // 
             this.pbtab.BackColor = System.Drawing.Color.Transparent;
             this.pbtab.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbtab.Location = new System.Drawing.Point(24, 77);
+            this.pbtab.Location = new System.Drawing.Point(32, 95);
+            this.pbtab.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbtab.Name = "pbtab";
-            this.pbtab.Size = new System.Drawing.Size(72, 45);
+            this.pbtab.Size = new System.Drawing.Size(96, 55);
             this.pbtab.TabIndex = 9;
             this.pbtab.TabStop = false;
             this.pbtab.Click += new System.EventHandler(this.pbtab_Click);
@@ -274,9 +283,10 @@
             // 
             this.pbcapslock.BackColor = System.Drawing.Color.Transparent;
             this.pbcapslock.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbcapslock.Location = new System.Drawing.Point(15, 135);
+            this.pbcapslock.Location = new System.Drawing.Point(20, 166);
+            this.pbcapslock.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbcapslock.Name = "pbcapslock";
-            this.pbcapslock.Size = new System.Drawing.Size(98, 45);
+            this.pbcapslock.Size = new System.Drawing.Size(131, 55);
             this.pbcapslock.TabIndex = 10;
             this.pbcapslock.TabStop = false;
             this.pbcapslock.Click += new System.EventHandler(this.pbcapslock_Click);
@@ -285,9 +295,10 @@
             // 
             this.pbleftshift.BackColor = System.Drawing.Color.Transparent;
             this.pbleftshift.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbleftshift.Location = new System.Drawing.Point(21, 190);
+            this.pbleftshift.Location = new System.Drawing.Point(28, 234);
+            this.pbleftshift.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbleftshift.Name = "pbleftshift";
-            this.pbleftshift.Size = new System.Drawing.Size(126, 45);
+            this.pbleftshift.Size = new System.Drawing.Size(168, 55);
             this.pbleftshift.TabIndex = 11;
             this.pbleftshift.TabStop = false;
             this.pbleftshift.Click += new System.EventHandler(this.pbleftshift_Click);
@@ -296,9 +307,10 @@
             // 
             this.pbwindows.BackColor = System.Drawing.Color.Transparent;
             this.pbwindows.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbwindows.Location = new System.Drawing.Point(106, 252);
+            this.pbwindows.Location = new System.Drawing.Point(141, 310);
+            this.pbwindows.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbwindows.Name = "pbwindows";
-            this.pbwindows.Size = new System.Drawing.Size(56, 38);
+            this.pbwindows.Size = new System.Drawing.Size(75, 47);
             this.pbwindows.TabIndex = 12;
             this.pbwindows.TabStop = false;
             this.pbwindows.Click += new System.EventHandler(this.pbwindows_Click);
@@ -307,9 +319,10 @@
             // 
             this.pbleftmenu.BackColor = System.Drawing.Color.Transparent;
             this.pbleftmenu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbleftmenu.Location = new System.Drawing.Point(181, 252);
+            this.pbleftmenu.Location = new System.Drawing.Point(241, 310);
+            this.pbleftmenu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbleftmenu.Name = "pbleftmenu";
-            this.pbleftmenu.Size = new System.Drawing.Size(60, 38);
+            this.pbleftmenu.Size = new System.Drawing.Size(80, 47);
             this.pbleftmenu.TabIndex = 13;
             this.pbleftmenu.TabStop = false;
             this.pbleftmenu.Click += new System.EventHandler(this.pbleftmenu_Click);
@@ -318,9 +331,10 @@
             // 
             this.pbspace.BackColor = System.Drawing.Color.Transparent;
             this.pbspace.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbspace.Location = new System.Drawing.Point(258, 252);
+            this.pbspace.Location = new System.Drawing.Point(344, 310);
+            this.pbspace.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbspace.Name = "pbspace";
-            this.pbspace.Size = new System.Drawing.Size(385, 38);
+            this.pbspace.Size = new System.Drawing.Size(513, 47);
             this.pbspace.TabIndex = 14;
             this.pbspace.TabStop = false;
             this.pbspace.Click += new System.EventHandler(this.pbspace_Click);
@@ -329,9 +343,10 @@
             // 
             this.pbrightmenu.BackColor = System.Drawing.Color.Transparent;
             this.pbrightmenu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbrightmenu.Location = new System.Drawing.Point(660, 252);
+            this.pbrightmenu.Location = new System.Drawing.Point(880, 310);
+            this.pbrightmenu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbrightmenu.Name = "pbrightmenu";
-            this.pbrightmenu.Size = new System.Drawing.Size(60, 38);
+            this.pbrightmenu.Size = new System.Drawing.Size(80, 47);
             this.pbrightmenu.TabIndex = 15;
             this.pbrightmenu.TabStop = false;
             this.pbrightmenu.Click += new System.EventHandler(this.pbrightmenu_Click);
@@ -340,9 +355,10 @@
             // 
             this.pbfn.BackColor = System.Drawing.Color.Transparent;
             this.pbfn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbfn.Location = new System.Drawing.Point(741, 252);
+            this.pbfn.Location = new System.Drawing.Point(988, 310);
+            this.pbfn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbfn.Name = "pbfn";
-            this.pbfn.Size = new System.Drawing.Size(60, 38);
+            this.pbfn.Size = new System.Drawing.Size(80, 47);
             this.pbfn.TabIndex = 16;
             this.pbfn.TabStop = false;
             this.pbfn.Click += new System.EventHandler(this.pbfn_Click);
@@ -351,9 +367,10 @@
             // 
             this.pbleft.BackColor = System.Drawing.Color.Transparent;
             this.pbleft.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbleft.Location = new System.Drawing.Point(852, 252);
+            this.pbleft.Location = new System.Drawing.Point(1136, 310);
+            this.pbleft.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbleft.Name = "pbleft";
-            this.pbleft.Size = new System.Drawing.Size(48, 38);
+            this.pbleft.Size = new System.Drawing.Size(64, 47);
             this.pbleft.TabIndex = 17;
             this.pbleft.TabStop = false;
             this.pbleft.Click += new System.EventHandler(this.pbleft_Click);
@@ -362,9 +379,10 @@
             // 
             this.pbright.BackColor = System.Drawing.Color.Transparent;
             this.pbright.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbright.Location = new System.Drawing.Point(979, 252);
+            this.pbright.Location = new System.Drawing.Point(1305, 310);
+            this.pbright.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbright.Name = "pbright";
-            this.pbright.Size = new System.Drawing.Size(48, 38);
+            this.pbright.Size = new System.Drawing.Size(64, 47);
             this.pbright.TabIndex = 18;
             this.pbright.TabStop = false;
             this.pbright.Click += new System.EventHandler(this.pbright_Click);
@@ -373,9 +391,10 @@
             // 
             this.pbdown.BackColor = System.Drawing.Color.Transparent;
             this.pbdown.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbdown.Location = new System.Drawing.Point(915, 252);
+            this.pbdown.Location = new System.Drawing.Point(1220, 310);
+            this.pbdown.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbdown.Name = "pbdown";
-            this.pbdown.Size = new System.Drawing.Size(48, 38);
+            this.pbdown.Size = new System.Drawing.Size(64, 47);
             this.pbdown.TabIndex = 19;
             this.pbdown.TabStop = false;
             this.pbdown.Click += new System.EventHandler(this.pbdown_Click);
@@ -384,9 +403,10 @@
             // 
             this.pbup.BackColor = System.Drawing.Color.Transparent;
             this.pbup.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbup.Location = new System.Drawing.Point(915, 190);
+            this.pbup.Location = new System.Drawing.Point(1220, 234);
+            this.pbup.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbup.Name = "pbup";
-            this.pbup.Size = new System.Drawing.Size(48, 45);
+            this.pbup.Size = new System.Drawing.Size(64, 55);
             this.pbup.TabIndex = 20;
             this.pbup.TabStop = false;
             this.pbup.Click += new System.EventHandler(this.pbup_Click);
@@ -395,9 +415,10 @@
             // 
             this.pbrightshift.BackColor = System.Drawing.Color.Transparent;
             this.pbrightshift.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbrightshift.Location = new System.Drawing.Point(804, 190);
+            this.pbrightshift.Location = new System.Drawing.Point(1072, 234);
+            this.pbrightshift.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbrightshift.Name = "pbrightshift";
-            this.pbrightshift.Size = new System.Drawing.Size(96, 45);
+            this.pbrightshift.Size = new System.Drawing.Size(128, 55);
             this.pbrightshift.TabIndex = 21;
             this.pbrightshift.TabStop = false;
             this.pbrightshift.Click += new System.EventHandler(this.pbrightshift_Click);
@@ -406,9 +427,10 @@
             // 
             this.pbend.BackColor = System.Drawing.Color.Transparent;
             this.pbend.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbend.Location = new System.Drawing.Point(979, 190);
+            this.pbend.Location = new System.Drawing.Point(1305, 234);
+            this.pbend.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbend.Name = "pbend";
-            this.pbend.Size = new System.Drawing.Size(48, 45);
+            this.pbend.Size = new System.Drawing.Size(64, 55);
             this.pbend.TabIndex = 22;
             this.pbend.TabStop = false;
             this.pbend.Click += new System.EventHandler(this.pbend_Click);
@@ -417,9 +439,10 @@
             // 
             this.pbpagedown.BackColor = System.Drawing.Color.Transparent;
             this.pbpagedown.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbpagedown.Location = new System.Drawing.Point(979, 135);
+            this.pbpagedown.Location = new System.Drawing.Point(1305, 166);
+            this.pbpagedown.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbpagedown.Name = "pbpagedown";
-            this.pbpagedown.Size = new System.Drawing.Size(48, 45);
+            this.pbpagedown.Size = new System.Drawing.Size(64, 55);
             this.pbpagedown.TabIndex = 23;
             this.pbpagedown.TabStop = false;
             this.pbpagedown.Click += new System.EventHandler(this.pbpagedown_Click);
@@ -428,9 +451,10 @@
             // 
             this.pbpageup.BackColor = System.Drawing.Color.Transparent;
             this.pbpageup.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbpageup.Location = new System.Drawing.Point(979, 77);
+            this.pbpageup.Location = new System.Drawing.Point(1305, 95);
+            this.pbpageup.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbpageup.Name = "pbpageup";
-            this.pbpageup.Size = new System.Drawing.Size(48, 45);
+            this.pbpageup.Size = new System.Drawing.Size(64, 55);
             this.pbpageup.TabIndex = 24;
             this.pbpageup.TabStop = false;
             this.pbpageup.Click += new System.EventHandler(this.pbpageup_Click);
@@ -439,9 +463,10 @@
             // 
             this.pbdelete.BackColor = System.Drawing.Color.Transparent;
             this.pbdelete.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbdelete.Location = new System.Drawing.Point(979, 18);
+            this.pbdelete.Location = new System.Drawing.Point(1305, 22);
+            this.pbdelete.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbdelete.Name = "pbdelete";
-            this.pbdelete.Size = new System.Drawing.Size(48, 45);
+            this.pbdelete.Size = new System.Drawing.Size(64, 55);
             this.pbdelete.TabIndex = 25;
             this.pbdelete.TabStop = false;
             this.pbdelete.Click += new System.EventHandler(this.pbdelete_Click);
@@ -450,9 +475,10 @@
             // 
             this.pbascend.BackColor = System.Drawing.Color.Transparent;
             this.pbascend.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbascend.Location = new System.Drawing.Point(837, 135);
+            this.pbascend.Location = new System.Drawing.Point(1116, 166);
+            this.pbascend.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbascend.Name = "pbascend";
-            this.pbascend.Size = new System.Drawing.Size(126, 45);
+            this.pbascend.Size = new System.Drawing.Size(168, 55);
             this.pbascend.TabIndex = 26;
             this.pbascend.TabStop = false;
             this.pbascend.Click += new System.EventHandler(this.pbascend_Click);
@@ -461,9 +487,10 @@
             // 
             this.pbbackspace.BackColor = System.Drawing.Color.Transparent;
             this.pbbackspace.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbbackspace.Location = new System.Drawing.Point(852, 18);
+            this.pbbackspace.Location = new System.Drawing.Point(1136, 22);
+            this.pbbackspace.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbbackspace.Name = "pbbackspace";
-            this.pbbackspace.Size = new System.Drawing.Size(111, 45);
+            this.pbbackspace.Size = new System.Drawing.Size(148, 55);
             this.pbbackspace.TabIndex = 27;
             this.pbbackspace.TabStop = false;
             this.pbbackspace.Click += new System.EventHandler(this.pbbackspace_Click);
@@ -472,9 +499,10 @@
             // 
             this.pbw.BackColor = System.Drawing.Color.Transparent;
             this.pbw.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbw.Location = new System.Drawing.Point(181, 77);
+            this.pbw.Location = new System.Drawing.Point(241, 95);
+            this.pbw.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbw.Name = "pbw";
-            this.pbw.Size = new System.Drawing.Size(44, 45);
+            this.pbw.Size = new System.Drawing.Size(59, 55);
             this.pbw.TabIndex = 28;
             this.pbw.TabStop = false;
             this.pbw.Click += new System.EventHandler(this.pbw_Click);
@@ -483,9 +511,10 @@
             // 
             this.pbe.BackColor = System.Drawing.Color.Transparent;
             this.pbe.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbe.Location = new System.Drawing.Point(245, 77);
+            this.pbe.Location = new System.Drawing.Point(327, 95);
+            this.pbe.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbe.Name = "pbe";
-            this.pbe.Size = new System.Drawing.Size(44, 45);
+            this.pbe.Size = new System.Drawing.Size(59, 55);
             this.pbe.TabIndex = 29;
             this.pbe.TabStop = false;
             this.pbe.Click += new System.EventHandler(this.pbe_Click);
@@ -494,9 +523,10 @@
             // 
             this.pbr.BackColor = System.Drawing.Color.Transparent;
             this.pbr.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbr.Location = new System.Drawing.Point(311, 77);
+            this.pbr.Location = new System.Drawing.Point(415, 95);
+            this.pbr.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbr.Name = "pbr";
-            this.pbr.Size = new System.Drawing.Size(44, 45);
+            this.pbr.Size = new System.Drawing.Size(59, 55);
             this.pbr.TabIndex = 30;
             this.pbr.TabStop = false;
             this.pbr.Click += new System.EventHandler(this.pbr_Click);
@@ -505,9 +535,10 @@
             // 
             this.pbt.BackColor = System.Drawing.Color.Transparent;
             this.pbt.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbt.Location = new System.Drawing.Point(374, 77);
+            this.pbt.Location = new System.Drawing.Point(499, 95);
+            this.pbt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbt.Name = "pbt";
-            this.pbt.Size = new System.Drawing.Size(44, 45);
+            this.pbt.Size = new System.Drawing.Size(59, 55);
             this.pbt.TabIndex = 31;
             this.pbt.TabStop = false;
             this.pbt.Click += new System.EventHandler(this.pbt_Click);
@@ -516,9 +547,10 @@
             // 
             this.pby.BackColor = System.Drawing.Color.Transparent;
             this.pby.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pby.Location = new System.Drawing.Point(438, 77);
+            this.pby.Location = new System.Drawing.Point(584, 95);
+            this.pby.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pby.Name = "pby";
-            this.pby.Size = new System.Drawing.Size(44, 45);
+            this.pby.Size = new System.Drawing.Size(59, 55);
             this.pby.TabIndex = 32;
             this.pby.TabStop = false;
             this.pby.Click += new System.EventHandler(this.pby_Click);
@@ -527,9 +559,10 @@
             // 
             this.pbu.BackColor = System.Drawing.Color.Transparent;
             this.pbu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbu.Location = new System.Drawing.Point(502, 77);
+            this.pbu.Location = new System.Drawing.Point(669, 95);
+            this.pbu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbu.Name = "pbu";
-            this.pbu.Size = new System.Drawing.Size(44, 45);
+            this.pbu.Size = new System.Drawing.Size(59, 55);
             this.pbu.TabIndex = 33;
             this.pbu.TabStop = false;
             this.pbu.Click += new System.EventHandler(this.pbu_Click);
@@ -538,9 +571,10 @@
             // 
             this.pbi.BackColor = System.Drawing.Color.Transparent;
             this.pbi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbi.Location = new System.Drawing.Point(566, 77);
+            this.pbi.Location = new System.Drawing.Point(755, 95);
+            this.pbi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbi.Name = "pbi";
-            this.pbi.Size = new System.Drawing.Size(44, 45);
+            this.pbi.Size = new System.Drawing.Size(59, 55);
             this.pbi.TabIndex = 34;
             this.pbi.TabStop = false;
             this.pbi.Click += new System.EventHandler(this.pbi_Click);
@@ -549,9 +583,10 @@
             // 
             this.pbo.BackColor = System.Drawing.Color.Transparent;
             this.pbo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbo.Location = new System.Drawing.Point(630, 77);
+            this.pbo.Location = new System.Drawing.Point(840, 95);
+            this.pbo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbo.Name = "pbo";
-            this.pbo.Size = new System.Drawing.Size(44, 45);
+            this.pbo.Size = new System.Drawing.Size(59, 55);
             this.pbo.TabIndex = 35;
             this.pbo.TabStop = false;
             this.pbo.Click += new System.EventHandler(this.pbo_Click);
@@ -560,9 +595,10 @@
             // 
             this.pbp.BackColor = System.Drawing.Color.Transparent;
             this.pbp.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbp.Location = new System.Drawing.Point(694, 77);
+            this.pbp.Location = new System.Drawing.Point(925, 95);
+            this.pbp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbp.Name = "pbp";
-            this.pbp.Size = new System.Drawing.Size(44, 45);
+            this.pbp.Size = new System.Drawing.Size(59, 55);
             this.pbp.TabIndex = 36;
             this.pbp.TabStop = false;
             this.pbp.Click += new System.EventHandler(this.pbp_Click);
@@ -571,9 +607,10 @@
             // 
             this.pba.BackColor = System.Drawing.Color.Transparent;
             this.pba.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pba.Location = new System.Drawing.Point(133, 135);
+            this.pba.Location = new System.Drawing.Point(177, 166);
+            this.pba.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pba.Name = "pba";
-            this.pba.Size = new System.Drawing.Size(44, 45);
+            this.pba.Size = new System.Drawing.Size(59, 55);
             this.pba.TabIndex = 37;
             this.pba.TabStop = false;
             this.pba.Click += new System.EventHandler(this.pba_Click);
@@ -582,9 +619,10 @@
             // 
             this.pbs.BackColor = System.Drawing.Color.Transparent;
             this.pbs.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbs.Location = new System.Drawing.Point(196, 135);
+            this.pbs.Location = new System.Drawing.Point(261, 166);
+            this.pbs.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbs.Name = "pbs";
-            this.pbs.Size = new System.Drawing.Size(44, 45);
+            this.pbs.Size = new System.Drawing.Size(59, 55);
             this.pbs.TabIndex = 38;
             this.pbs.TabStop = false;
             this.pbs.Click += new System.EventHandler(this.pbs_Click);
@@ -593,9 +631,10 @@
             // 
             this.pbd.BackColor = System.Drawing.Color.Transparent;
             this.pbd.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbd.Location = new System.Drawing.Point(258, 135);
+            this.pbd.Location = new System.Drawing.Point(344, 166);
+            this.pbd.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbd.Name = "pbd";
-            this.pbd.Size = new System.Drawing.Size(44, 45);
+            this.pbd.Size = new System.Drawing.Size(59, 55);
             this.pbd.TabIndex = 39;
             this.pbd.TabStop = false;
             this.pbd.Click += new System.EventHandler(this.pbd_Click);
@@ -604,9 +643,10 @@
             // 
             this.pbf.BackColor = System.Drawing.Color.Transparent;
             this.pbf.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbf.Location = new System.Drawing.Point(325, 135);
+            this.pbf.Location = new System.Drawing.Point(433, 166);
+            this.pbf.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbf.Name = "pbf";
-            this.pbf.Size = new System.Drawing.Size(44, 45);
+            this.pbf.Size = new System.Drawing.Size(59, 55);
             this.pbf.TabIndex = 40;
             this.pbf.TabStop = false;
             this.pbf.Click += new System.EventHandler(this.pbf_Click);
@@ -615,9 +655,10 @@
             // 
             this.pbg.BackColor = System.Drawing.Color.Transparent;
             this.pbg.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbg.Location = new System.Drawing.Point(387, 135);
+            this.pbg.Location = new System.Drawing.Point(516, 166);
+            this.pbg.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbg.Name = "pbg";
-            this.pbg.Size = new System.Drawing.Size(48, 45);
+            this.pbg.Size = new System.Drawing.Size(64, 55);
             this.pbg.TabIndex = 41;
             this.pbg.TabStop = false;
             this.pbg.Click += new System.EventHandler(this.pbg_Click);
@@ -626,9 +667,10 @@
             // 
             this.pbh.BackColor = System.Drawing.Color.Transparent;
             this.pbh.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbh.Location = new System.Drawing.Point(451, 135);
+            this.pbh.Location = new System.Drawing.Point(601, 166);
+            this.pbh.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbh.Name = "pbh";
-            this.pbh.Size = new System.Drawing.Size(48, 45);
+            this.pbh.Size = new System.Drawing.Size(64, 55);
             this.pbh.TabIndex = 42;
             this.pbh.TabStop = false;
             this.pbh.Click += new System.EventHandler(this.pbh_Click);
@@ -637,9 +679,10 @@
             // 
             this.pbj.BackColor = System.Drawing.Color.Transparent;
             this.pbj.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbj.Location = new System.Drawing.Point(515, 135);
+            this.pbj.Location = new System.Drawing.Point(687, 166);
+            this.pbj.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbj.Name = "pbj";
-            this.pbj.Size = new System.Drawing.Size(49, 45);
+            this.pbj.Size = new System.Drawing.Size(65, 55);
             this.pbj.TabIndex = 43;
             this.pbj.TabStop = false;
             this.pbj.Click += new System.EventHandler(this.pbj_Click);
@@ -648,9 +691,10 @@
             // 
             this.pbk.BackColor = System.Drawing.Color.Transparent;
             this.pbk.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbk.Location = new System.Drawing.Point(580, 135);
+            this.pbk.Location = new System.Drawing.Point(773, 166);
+            this.pbk.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbk.Name = "pbk";
-            this.pbk.Size = new System.Drawing.Size(46, 45);
+            this.pbk.Size = new System.Drawing.Size(61, 55);
             this.pbk.TabIndex = 44;
             this.pbk.TabStop = false;
             this.pbk.Click += new System.EventHandler(this.pbk_Click);
@@ -659,9 +703,10 @@
             // 
             this.pbl.BackColor = System.Drawing.Color.Transparent;
             this.pbl.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbl.Location = new System.Drawing.Point(643, 135);
+            this.pbl.Location = new System.Drawing.Point(857, 166);
+            this.pbl.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbl.Name = "pbl";
-            this.pbl.Size = new System.Drawing.Size(48, 45);
+            this.pbl.Size = new System.Drawing.Size(64, 55);
             this.pbl.TabIndex = 45;
             this.pbl.TabStop = false;
             this.pbl.Click += new System.EventHandler(this.pbl_Click);
@@ -670,9 +715,10 @@
             // 
             this.pbz.BackColor = System.Drawing.Color.Transparent;
             this.pbz.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbz.Location = new System.Drawing.Point(166, 190);
+            this.pbz.Location = new System.Drawing.Point(221, 234);
+            this.pbz.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbz.Name = "pbz";
-            this.pbz.Size = new System.Drawing.Size(44, 45);
+            this.pbz.Size = new System.Drawing.Size(59, 55);
             this.pbz.TabIndex = 46;
             this.pbz.TabStop = false;
             this.pbz.Click += new System.EventHandler(this.pbz_Click);
@@ -681,9 +727,10 @@
             // 
             this.pbx.BackColor = System.Drawing.Color.Transparent;
             this.pbx.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbx.Location = new System.Drawing.Point(230, 190);
+            this.pbx.Location = new System.Drawing.Point(307, 234);
+            this.pbx.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbx.Name = "pbx";
-            this.pbx.Size = new System.Drawing.Size(44, 45);
+            this.pbx.Size = new System.Drawing.Size(59, 55);
             this.pbx.TabIndex = 47;
             this.pbx.TabStop = false;
             this.pbx.Click += new System.EventHandler(this.pbx_Click);
@@ -692,9 +739,10 @@
             // 
             this.pbc.BackColor = System.Drawing.Color.Transparent;
             this.pbc.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbc.Location = new System.Drawing.Point(294, 190);
+            this.pbc.Location = new System.Drawing.Point(392, 234);
+            this.pbc.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbc.Name = "pbc";
-            this.pbc.Size = new System.Drawing.Size(44, 45);
+            this.pbc.Size = new System.Drawing.Size(59, 55);
             this.pbc.TabIndex = 48;
             this.pbc.TabStop = false;
             this.pbc.Click += new System.EventHandler(this.pbc_Click);
@@ -703,9 +751,10 @@
             // 
             this.pbv.BackColor = System.Drawing.Color.Transparent;
             this.pbv.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbv.Location = new System.Drawing.Point(358, 190);
+            this.pbv.Location = new System.Drawing.Point(477, 234);
+            this.pbv.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbv.Name = "pbv";
-            this.pbv.Size = new System.Drawing.Size(44, 45);
+            this.pbv.Size = new System.Drawing.Size(59, 55);
             this.pbv.TabIndex = 49;
             this.pbv.TabStop = false;
             this.pbv.Click += new System.EventHandler(this.pbv_Click);
@@ -714,9 +763,10 @@
             // 
             this.pbb.BackColor = System.Drawing.Color.Transparent;
             this.pbb.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbb.Location = new System.Drawing.Point(422, 190);
+            this.pbb.Location = new System.Drawing.Point(563, 234);
+            this.pbb.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbb.Name = "pbb";
-            this.pbb.Size = new System.Drawing.Size(44, 45);
+            this.pbb.Size = new System.Drawing.Size(59, 55);
             this.pbb.TabIndex = 50;
             this.pbb.TabStop = false;
             this.pbb.Click += new System.EventHandler(this.pbb_Click);
@@ -725,9 +775,10 @@
             // 
             this.pbn.BackColor = System.Drawing.Color.Transparent;
             this.pbn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbn.Location = new System.Drawing.Point(487, 190);
+            this.pbn.Location = new System.Drawing.Point(649, 234);
+            this.pbn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbn.Name = "pbn";
-            this.pbn.Size = new System.Drawing.Size(44, 45);
+            this.pbn.Size = new System.Drawing.Size(59, 55);
             this.pbn.TabIndex = 51;
             this.pbn.TabStop = false;
             this.pbn.Click += new System.EventHandler(this.pbn_Click);
@@ -736,9 +787,10 @@
             // 
             this.pbm.BackColor = System.Drawing.Color.Transparent;
             this.pbm.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbm.Location = new System.Drawing.Point(550, 190);
+            this.pbm.Location = new System.Drawing.Point(733, 234);
+            this.pbm.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbm.Name = "pbm";
-            this.pbm.Size = new System.Drawing.Size(44, 45);
+            this.pbm.Size = new System.Drawing.Size(59, 55);
             this.pbm.TabIndex = 52;
             this.pbm.TabStop = false;
             this.pbm.Click += new System.EventHandler(this.pbm_Click);
@@ -747,9 +799,10 @@
             // 
             this.pb1.BackColor = System.Drawing.Color.Transparent;
             this.pb1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb1.Location = new System.Drawing.Point(84, 18);
+            this.pb1.Location = new System.Drawing.Point(112, 22);
+            this.pb1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb1.Name = "pb1";
-            this.pb1.Size = new System.Drawing.Size(47, 45);
+            this.pb1.Size = new System.Drawing.Size(63, 55);
             this.pb1.TabIndex = 53;
             this.pb1.TabStop = false;
             this.pb1.Click += new System.EventHandler(this.pb1_Click);
@@ -758,9 +811,10 @@
             // 
             this.pb2.BackColor = System.Drawing.Color.Transparent;
             this.pb2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb2.Location = new System.Drawing.Point(148, 18);
+            this.pb2.Location = new System.Drawing.Point(197, 22);
+            this.pb2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb2.Name = "pb2";
-            this.pb2.Size = new System.Drawing.Size(47, 45);
+            this.pb2.Size = new System.Drawing.Size(63, 55);
             this.pb2.TabIndex = 54;
             this.pb2.TabStop = false;
             this.pb2.Click += new System.EventHandler(this.pb2_Click);
@@ -769,9 +823,10 @@
             // 
             this.pb3.BackColor = System.Drawing.Color.Transparent;
             this.pb3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb3.Location = new System.Drawing.Point(211, 18);
+            this.pb3.Location = new System.Drawing.Point(281, 22);
+            this.pb3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb3.Name = "pb3";
-            this.pb3.Size = new System.Drawing.Size(47, 45);
+            this.pb3.Size = new System.Drawing.Size(63, 55);
             this.pb3.TabIndex = 55;
             this.pb3.TabStop = false;
             this.pb3.Click += new System.EventHandler(this.pb3_Click);
@@ -780,9 +835,10 @@
             // 
             this.pb4.BackColor = System.Drawing.Color.Transparent;
             this.pb4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb4.Location = new System.Drawing.Point(276, 18);
+            this.pb4.Location = new System.Drawing.Point(368, 22);
+            this.pb4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb4.Name = "pb4";
-            this.pb4.Size = new System.Drawing.Size(47, 45);
+            this.pb4.Size = new System.Drawing.Size(63, 55);
             this.pb4.TabIndex = 56;
             this.pb4.TabStop = false;
             this.pb4.Click += new System.EventHandler(this.pb4_Click);
@@ -791,9 +847,10 @@
             // 
             this.pb5.BackColor = System.Drawing.Color.Transparent;
             this.pb5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb5.Location = new System.Drawing.Point(341, 18);
+            this.pb5.Location = new System.Drawing.Point(455, 22);
+            this.pb5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb5.Name = "pb5";
-            this.pb5.Size = new System.Drawing.Size(47, 45);
+            this.pb5.Size = new System.Drawing.Size(63, 55);
             this.pb5.TabIndex = 57;
             this.pb5.TabStop = false;
             this.pb5.Click += new System.EventHandler(this.pb5_Click);
@@ -802,9 +859,10 @@
             // 
             this.pb6.BackColor = System.Drawing.Color.Transparent;
             this.pb6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb6.Location = new System.Drawing.Point(403, 18);
+            this.pb6.Location = new System.Drawing.Point(537, 22);
+            this.pb6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb6.Name = "pb6";
-            this.pb6.Size = new System.Drawing.Size(47, 45);
+            this.pb6.Size = new System.Drawing.Size(63, 55);
             this.pb6.TabIndex = 58;
             this.pb6.TabStop = false;
             this.pb6.Click += new System.EventHandler(this.pb6_Click);
@@ -813,9 +871,10 @@
             // 
             this.pb7.BackColor = System.Drawing.Color.Transparent;
             this.pb7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb7.Location = new System.Drawing.Point(469, 18);
+            this.pb7.Location = new System.Drawing.Point(625, 22);
+            this.pb7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb7.Name = "pb7";
-            this.pb7.Size = new System.Drawing.Size(47, 45);
+            this.pb7.Size = new System.Drawing.Size(63, 55);
             this.pb7.TabIndex = 59;
             this.pb7.TabStop = false;
             this.pb7.Click += new System.EventHandler(this.pb7_Click);
@@ -824,9 +883,10 @@
             // 
             this.pb8.BackColor = System.Drawing.Color.Transparent;
             this.pb8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb8.Location = new System.Drawing.Point(533, 18);
+            this.pb8.Location = new System.Drawing.Point(711, 22);
+            this.pb8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb8.Name = "pb8";
-            this.pb8.Size = new System.Drawing.Size(47, 45);
+            this.pb8.Size = new System.Drawing.Size(63, 55);
             this.pb8.TabIndex = 60;
             this.pb8.TabStop = false;
             this.pb8.Click += new System.EventHandler(this.pb8_Click);
@@ -835,9 +895,10 @@
             // 
             this.pb9.BackColor = System.Drawing.Color.Transparent;
             this.pb9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb9.Location = new System.Drawing.Point(596, 18);
+            this.pb9.Location = new System.Drawing.Point(795, 22);
+            this.pb9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb9.Name = "pb9";
-            this.pb9.Size = new System.Drawing.Size(47, 45);
+            this.pb9.Size = new System.Drawing.Size(63, 55);
             this.pb9.TabIndex = 61;
             this.pb9.TabStop = false;
             this.pb9.Click += new System.EventHandler(this.pb9_Click);
@@ -846,9 +907,10 @@
             // 
             this.pb0.BackColor = System.Drawing.Color.Transparent;
             this.pb0.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pb0.Location = new System.Drawing.Point(660, 18);
+            this.pb0.Location = new System.Drawing.Point(880, 22);
+            this.pb0.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb0.Name = "pb0";
-            this.pb0.Size = new System.Drawing.Size(47, 45);
+            this.pb0.Size = new System.Drawing.Size(63, 55);
             this.pb0.TabIndex = 62;
             this.pb0.TabStop = false;
             this.pb0.Click += new System.EventHandler(this.pb0_Click);
@@ -857,9 +919,10 @@
             // 
             this.pbminus.BackColor = System.Drawing.Color.Transparent;
             this.pbminus.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbminus.Location = new System.Drawing.Point(725, 18);
+            this.pbminus.Location = new System.Drawing.Point(967, 22);
+            this.pbminus.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbminus.Name = "pbminus";
-            this.pbminus.Size = new System.Drawing.Size(47, 45);
+            this.pbminus.Size = new System.Drawing.Size(63, 55);
             this.pbminus.TabIndex = 63;
             this.pbminus.TabStop = false;
             this.pbminus.Click += new System.EventHandler(this.pbminus_Click);
@@ -868,9 +931,10 @@
             // 
             this.pbequal.BackColor = System.Drawing.Color.Transparent;
             this.pbequal.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbequal.Location = new System.Drawing.Point(790, 18);
+            this.pbequal.Location = new System.Drawing.Point(1053, 22);
+            this.pbequal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbequal.Name = "pbequal";
-            this.pbequal.Size = new System.Drawing.Size(47, 45);
+            this.pbequal.Size = new System.Drawing.Size(63, 55);
             this.pbequal.TabIndex = 64;
             this.pbequal.TabStop = false;
             this.pbequal.Click += new System.EventHandler(this.pbequal_Click);
@@ -879,9 +943,10 @@
             // 
             this.pbhookright.BackColor = System.Drawing.Color.Transparent;
             this.pbhookright.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbhookright.Location = new System.Drawing.Point(821, 77);
+            this.pbhookright.Location = new System.Drawing.Point(1095, 95);
+            this.pbhookright.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbhookright.Name = "pbhookright";
-            this.pbhookright.Size = new System.Drawing.Size(47, 45);
+            this.pbhookright.Size = new System.Drawing.Size(63, 55);
             this.pbhookright.TabIndex = 65;
             this.pbhookright.TabStop = false;
             this.pbhookright.Click += new System.EventHandler(this.pbhookright_Click);
@@ -890,9 +955,10 @@
             // 
             this.phookleft.BackColor = System.Drawing.Color.Transparent;
             this.phookleft.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.phookleft.Location = new System.Drawing.Point(754, 77);
+            this.phookleft.Location = new System.Drawing.Point(1005, 95);
+            this.phookleft.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.phookleft.Name = "phookleft";
-            this.phookleft.Size = new System.Drawing.Size(47, 45);
+            this.phookleft.Size = new System.Drawing.Size(63, 55);
             this.phookleft.TabIndex = 66;
             this.phookleft.TabStop = false;
             this.phookleft.Click += new System.EventHandler(this.phookleft_Click);
@@ -901,9 +967,10 @@
             // 
             this.pbbackslash.BackColor = System.Drawing.Color.Transparent;
             this.pbbackslash.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbbackslash.Location = new System.Drawing.Point(884, 77);
+            this.pbbackslash.Location = new System.Drawing.Point(1179, 95);
+            this.pbbackslash.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbbackslash.Name = "pbbackslash";
-            this.pbbackslash.Size = new System.Drawing.Size(79, 45);
+            this.pbbackslash.Size = new System.Drawing.Size(105, 55);
             this.pbbackslash.TabIndex = 67;
             this.pbbackslash.TabStop = false;
             this.pbbackslash.Click += new System.EventHandler(this.pbbackslash_Click);
@@ -912,9 +979,10 @@
             // 
             this.pbdotcomma.BackColor = System.Drawing.Color.Transparent;
             this.pbdotcomma.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbdotcomma.Location = new System.Drawing.Point(707, 135);
+            this.pbdotcomma.Location = new System.Drawing.Point(943, 166);
+            this.pbdotcomma.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbdotcomma.Name = "pbdotcomma";
-            this.pbdotcomma.Size = new System.Drawing.Size(47, 45);
+            this.pbdotcomma.Size = new System.Drawing.Size(63, 55);
             this.pbdotcomma.TabIndex = 68;
             this.pbdotcomma.TabStop = false;
             this.pbdotcomma.Click += new System.EventHandler(this.pbdotcomma_Click);
@@ -923,9 +991,10 @@
             // 
             this.pbquote.BackColor = System.Drawing.Color.Transparent;
             this.pbquote.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbquote.Location = new System.Drawing.Point(770, 135);
+            this.pbquote.Location = new System.Drawing.Point(1027, 166);
+            this.pbquote.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbquote.Name = "pbquote";
-            this.pbquote.Size = new System.Drawing.Size(47, 45);
+            this.pbquote.Size = new System.Drawing.Size(63, 55);
             this.pbquote.TabIndex = 69;
             this.pbquote.TabStop = false;
             this.pbquote.Click += new System.EventHandler(this.pbquote_Click);
@@ -934,9 +1003,10 @@
             // 
             this.pbcomma.BackColor = System.Drawing.Color.Transparent;
             this.pbcomma.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbcomma.Location = new System.Drawing.Point(613, 190);
+            this.pbcomma.Location = new System.Drawing.Point(817, 234);
+            this.pbcomma.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbcomma.Name = "pbcomma";
-            this.pbcomma.Size = new System.Drawing.Size(47, 45);
+            this.pbcomma.Size = new System.Drawing.Size(63, 55);
             this.pbcomma.TabIndex = 70;
             this.pbcomma.TabStop = false;
             this.pbcomma.Click += new System.EventHandler(this.pbcomma_Click);
@@ -945,9 +1015,10 @@
             // 
             this.pbdot.BackColor = System.Drawing.Color.Transparent;
             this.pbdot.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbdot.Location = new System.Drawing.Point(677, 190);
+            this.pbdot.Location = new System.Drawing.Point(903, 234);
+            this.pbdot.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbdot.Name = "pbdot";
-            this.pbdot.Size = new System.Drawing.Size(47, 45);
+            this.pbdot.Size = new System.Drawing.Size(63, 55);
             this.pbdot.TabIndex = 71;
             this.pbdot.TabStop = false;
             this.pbdot.Click += new System.EventHandler(this.pbdot_Click);
@@ -956,21 +1027,22 @@
             // 
             this.pbslash.BackColor = System.Drawing.Color.Transparent;
             this.pbslash.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pbslash.Location = new System.Drawing.Point(741, 190);
+            this.pbslash.Location = new System.Drawing.Point(988, 234);
+            this.pbslash.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbslash.Name = "pbslash";
-            this.pbslash.Size = new System.Drawing.Size(47, 45);
+            this.pbslash.Size = new System.Drawing.Size(63, 55);
             this.pbslash.TabIndex = 72;
             this.pbslash.TabStop = false;
             this.pbslash.Click += new System.EventHandler(this.pbslash_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImage = global::VirtualKeyboard.Properties.Resources.vk1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1047, 311);
+            this.ClientSize = new System.Drawing.Size(1396, 383);
             this.Controls.Add(this.pbslash);
             this.Controls.Add(this.pbdot);
             this.Controls.Add(this.pbcomma);
@@ -1046,6 +1118,7 @@
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
@@ -1054,6 +1127,7 @@
             this.Deactivate += new System.EventHandler(this.Form1_Deactivate);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Shown += new System.EventHandler(this.Form1_Shown);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbescape)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbleftcontrol)).EndInit();
